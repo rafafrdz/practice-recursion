@@ -1,0 +1,36 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/recfun/src/main/scala/recfun/RecFun.scala, /home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/recfun/src/main/scala/recfun/RecFunInterface.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/s1_recfun/recfun/src/main/scala/recfun/RecFun.scala, /home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/s1_recfun/recfun/src/main/scala/recfun/RecFunInterface.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/recfun/target/scala-2.13/classes/recfun/RecFun$.class, /home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/recfun/target/scala-2.13/classes/recfun/RecFun.class, /home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/recfun/target/scala-2.13/classes/recfun/RecFunInterface.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(recfun.RecFun, recfun.RecFunInterface)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/recfun/src/main/scala/recfun/RecFun.scala, /home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/recfun/src/main/scala/recfun/RecFunInterface.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(recfun.RecFun, recfun.RecFunInterface)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/s1_recfun/recfun/src/main/scala/recfun/RecFun.scala, /home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/s1_recfun/recfun/src/main/scala/recfun/RecFunInterface.scala, /home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/recfun/src/main/scala/recfun/RecFun.scala, /home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/recfun/src/main/scala/recfun/RecFunInterface.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 2 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to /home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/s1_recfun/recfun/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 58cc2272 for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/rafa/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/rafa/Documentos/Cursos/Coursera/Scala/Functional Programming Principles in Scala/Exercises/s1_recfun/recfun/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.823759944 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
